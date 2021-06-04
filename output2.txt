@@ -1,0 +1,26 @@
+0 0 1
+1 0 2
+2 1 0
+3 1 1
+4 1 2
+5 1 3
+6 2 0
+7 2 1
+8 2 2
+9 2 3
+10 3 1
+11 3 2
+4 5      1.000 included
+10 11      1.000 included
+3 7      1.000 included
+8 11      1.000 included
+8 9      1.000 included
+7 10      1.000 included
+1 4      1.000 included
+0 1      1.000 included
+7 8      1.000 discarded
+0 3      1.000 included
+6 7      1.000 included
+5 9      1.000 discarded
+2 3      1.000 included
+Sum of weights of spanning edges     11.000

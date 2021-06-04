@@ -1,0 +1,25 @@
+0 0 0
+1 50 50
+2 -50 -50
+3 50 -50
+4 -50 50
+5 0 100
+6 100 0
+7 0 -100
+8 -100 0
+9 150 0
+10 200 50
+11 250 100
+6 9     50.000 included
+0 3     70.711 included
+0 4     70.711 included
+3 6     70.711 included
+0 1     70.711 included
+10 11     70.711 included
+1 5     70.711 included
+1 6     70.711 discarded
+9 10     70.711 included
+0 2     70.711 included
+2 7     70.711 included
+2 8     70.711 included
+Sum of weights of spanning edges    757.107
